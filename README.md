@@ -2,4 +2,4 @@
 
 Berikut adalah tampilan dashboard analisis penjualan:
 
-![Dashboard Sales](Screenshot%202026-09-16%20204744.png)
+![Dashboard Sales]("Screenshot 2026-09-16 204744.png")
