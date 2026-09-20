@@ -41,6 +41,3 @@ Dashboard ini mencakup beberapa indikator utama (KPI) serta komponen visualisasi
 * `Sales Data - DATA.csv` : Dataset mentah yang digunakan sebagai sumber data.
 * `Dashboard Sales 2014-2017.png` : Gambar tangkapan layar tampilan dashboard.
 * `README.md` : Dokumentasi penjelasan proyek.
-* `Sales Data - DATA.csv` : Dataset mentah yang digunakan sebagai sumber data.
-* `Screenshot 2026-09-16 204744.png` : Gambar tangkapan layar tampilan dashboard.
-* `README.md` : Dokumentasi penjelasan proyek.
